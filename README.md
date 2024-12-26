@@ -126,4 +126,4 @@ A bar plot representing the eigenvalues of the covariance matrix, indicating the
 4. Analyze the generated plots for insights.
 
 ## Contact
-For queries, reach out to [Your Name] at [Your Email].
+For queries, reach out to TannuWorks at agapaitanveermou@gmail.com.
